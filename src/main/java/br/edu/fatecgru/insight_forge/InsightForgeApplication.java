@@ -8,6 +8,7 @@ public class InsightForgeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(InsightForgeApplication.class, args);
+		System.out.print("Hello world");
 	}
 
 }
